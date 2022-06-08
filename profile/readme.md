@@ -1,5 +1,5 @@
-# **MNB Lab** from LMU Klinikum 
-## Department of Psychiatry & Psychotherapy headed by [**Prof. Moritz Rossner**](https://www.mcn.uni-muenchen.de/members/regular/rossner/index.html)
+# **Molecular & Behavioural Neurobiology (MNB) Lab**  
+## LMU KlinikumDepartment of Psychiatry & Psychotherapy - AG [**Prof. Moritz Rossner**](https://www.mcn.uni-muenchen.de/members/regular/rossner/index.html)
 
 Visit MNB lab [website](https://www.lmu-klinikum.de/psychiatrie-und-psychotherapie/forschung-research/working-groups/molecular-behavioural-neurobiology/a7aaa2613c3efb58) for details.
 
